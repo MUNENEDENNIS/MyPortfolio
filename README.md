@@ -7,11 +7,11 @@ This portfolio gives information on my hobbies and reasons behind my decision to
 HTML
 CSS
 ## Support and contact details
-For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at official munen@gmailcom
+For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at officialmunene@gmailcom
 ### License
 MIT License
 
-Copyright (c) [2020] [DennisMunene]
+Copyright (c) 2020 DennisMunene
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
