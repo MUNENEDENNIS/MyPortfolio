@@ -1,5 +1,5 @@
 #   Portfolio
-#### This is a project ofmy portfolio
+#### This is a project of my portfolio
 #### By **Dennis Munene**
 ## Description
 This portfolio gives information on my hobbies and reasons behind my decision to learn code
