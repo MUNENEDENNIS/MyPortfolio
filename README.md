@@ -1,5 +1,5 @@
 #   Portfolio
-#### This is a project of my portfolio
+#### This is a project ofmy portfolio
 #### By **Dennis Munene**
 ## Description
 This portfolio gives information on my hobbies and reasons behind my decision to learn code
@@ -7,11 +7,11 @@ This portfolio gives information on my hobbies and reasons behind my decision to
 HTML
 CSS
 ## Support and contact details
-For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at officialmunene@gmailcom
+For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at official munen@gmailcom
 ### License
 MIT License
 
-Copyright (c) 2020 DennisMunene
+Copyright (c) [2020] [DennisMunene]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,3 +30,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+  
