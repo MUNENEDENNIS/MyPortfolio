@@ -7,7 +7,7 @@ This portfolio gives information on my hobbies and reasons behind my decision to
 HTML
 CSS
 ## Support and contact details
-For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at official munen@gmailcom
+For any difficulties accessing the code, comments, concerns, ideas or any form of questions. Kindly contact me at officialmunene@gmail.com
 ### License
 MIT License
 
